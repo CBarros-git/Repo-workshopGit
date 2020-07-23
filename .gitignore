@@ -10,5 +10,9 @@
 .Ruserdata
 
 #temporary
+<<<<<<< HEAD
 .* Rproj
 Temporary/_
+=======
+./Temporary.R 
+>>>>>>> c8affadb468a928acfdd0e5f277bbeddae52bcfe
