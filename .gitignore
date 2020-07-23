@@ -11,6 +11,6 @@
 
 #temporary
 
-.* Rproj
+.*Rproj
 ./Temporary.R 
 
